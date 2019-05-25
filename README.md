@@ -10,6 +10,43 @@ updated: may 2019
 
 A Touch of Sin
 
+The Foot Fist Way
+
+État de Siège
+
+missing
+
+doubt
+
+Goodbye Lenin
+
+Z (1969) Costa-Gavras
+
+Jojimbo
+
+Vivre Sa Vie
+
+Los Cronocrimenes
+
+The Conversation
+
+Notre Jour Viendra
+
+Gentlemen Broncos
+
+Mon Oncle
+
+##godard 
+la chinoise
+
+-paths of glory
+-Dr. Strangelove - or How I Learned to Stop Worrying and Love the Bomb
+-lolita
+
+The Breakfast Club
+
+a serious man
+
 Mandy
 
 ##wes anderson
@@ -18,7 +55,6 @@ Mandy
 -ROYAl TENENMAUMS
 -rushmore
 -aquatic life of steve zizou
-
 
 The time that reamins
 
@@ -30,6 +66,35 @@ American Splendor
 -there will be blood
 -the master
 -phantom thread
+
+ladrid di biciclette
+
+les quatre cents coups
+
+la nuit americaine
+
+la bataille d'alger
+
+they live
+
+two days one night
+
+come and see
+
+shawn of the dead
+
+ferris buller's day off
+
+frances ha
+
+the lobster
+
+the witch
+
+junun
+
+you were never really there
+
 
 
 office space
