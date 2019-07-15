@@ -36,7 +36,7 @@ Gentlemen Broncos
 
 Mon Oncle
 
-##godard 
+##godard
 la chinoise
 
 -paths of glory
@@ -75,11 +75,15 @@ la nuit americaine
 
 la bataille d'alger
 
+Saul fia (Son of Saul) 2015 directed by László Nemes
+
 they live
 
 two days one night
 
-come and see
+
+Иди и смотри, Idi i smotri (Come and See) 1985 directed by Elem Klimov
+
 
 shawn of the dead
 
@@ -100,5 +104,3 @@ you were never really there
 office space
 
 La Haine
-
-
