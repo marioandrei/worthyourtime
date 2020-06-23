@@ -4,7 +4,7 @@ Films Worth Watching
 I'm always forgetting to create a list of my favourite films.
 so here it is, the definitive list, no nonsense, good or bad but always relevant and timeless... a Criterion Collection ripoff:
 
-updated: may 2019
+updated: june 2020
 
 
 
@@ -100,7 +100,10 @@ junun
 you were never really there
 
 
-
 office space
 
 La Haine
+
+Parasites
+
+the lighthouse
