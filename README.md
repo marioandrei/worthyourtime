@@ -4,7 +4,7 @@ Films Worth Watching
 I'm always forgetting to create a list of my favourite films.
 so here it is, the definitive list, no nonsense, good or bad but always relevant, timeless... a Criterion Collection ripoff probably:
 
-updated: July 2020
+updated: July 2020 8
 
 - A Serious Man
 - A Touch Of Sin
@@ -25,7 +25,7 @@ updated: July 2020
 - La Haine
 - La Nuit Americaine
 - Ladrid Di Biciclette
-- Les Quatre Cents Coups
+- Les Quatre Cents Coups (1959) François Truffaut
 - Lolita
 - Los Cronocrimenes
 - Mandy
@@ -38,7 +38,7 @@ updated: July 2020
 - Phantom Thread
 - Royal Tenenmaums
 - Rushmore
-- Saul Fia (Son Of Saul) 2015 Directed By László Nemes
+- Saul Fia [Son Of Saul] (2015) László Nemes
 - Shawn Of The Dead
 - The Breakfast Club
 - The Conversation
@@ -54,6 +54,6 @@ updated: July 2020
 - Two Days One Night
 - Under The Skin
 - Vivre Sa Vie
-- you were never really there
+- You Were Never Really There
 - Z (1969) Costa-Gavras
-- Иди и смотри, Idi i smotri (Come and See) 1985 Elem Klimov
+- Иди и смотри [Come and See] (1985) Elem Klimov
