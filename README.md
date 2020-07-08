@@ -6,53 +6,53 @@ so here it is, the definitive list, no nonsense, good or bad but always relevant
 
 updated: July 2020
 
-- a serious man
-- A Touch of Sin
+- A Serious Man
+- A Touch Of Sin
 - American Splendor
-- aquatic life of steve zizou
+- Aquatic Life Of Steve Zizou
 - Dogville
-- doubt
-- Dr. Strangelove - or How I Learned to Stop Worrying and Love the Bomb
-- État de Siège
-- ferris buller's day off
-- frances ha
+- Doubt
+- Dr. Strangelove - Or How I Learned To Stop Worrying And Love The Bomb
+- État De Siège
+- Ferris Buller'S Day Off
+- Frances Ha
 - Gentlemen Broncos
 - Goodbye Lenin
 - Jojimbo
-- junun
-- la bataille d'alger
-- la chinoise (1967) Jean-Luc Godard
+- Junun
+- La Bataille D'Alger
+- La Chinoise (1967) Jean-Luc Godard
 - La Haine
-- la nuit americaine
-- ladrid di biciclette
-- les quatre cents coups
-- lolita
+- La Nuit Americaine
+- Ladrid Di Biciclette
+- Les Quatre Cents Coups
+- Lolita
 - Los Cronocrimenes
 - Mandy
 - Missing
 - Mon Oncle
 - Notre Jour Viendra
-- office space
+- Office Space
 - Parasites
-- paths of glory
-- phantom thread
-- ROYAl TENENMAUMS
-- rushmore
-- Saul fia (Son of Saul) 2015 directed by László Nemes
-- shawn of the dead
+- Paths Of Glory
+- Phantom Thread
+- Royal Tenenmaums
+- Rushmore
+- Saul Fia (Son Of Saul) 2015 Directed By László Nemes
+- Shawn Of The Dead
 - The Breakfast Club
 - The Conversation
-- The darjelling limited
+- The Darjelling Limited
 - The Foot Fist Way
-- the lighthouse
-- the lobster
-- the master
-- The time that reamins
-- the witch
-- there will be blood
-- they live 
-- two days one night
-- under the Skin
+- The Lighthouse
+- The Lobster
+- The Master
+- The Time That Reamins
+- The Witch
+- There Will Be Blood
+- They Live 
+- Two Days One Night
+- Under The Skin
 - Vivre Sa Vie
 - you were never really there
 - Z (1969) Costa-Gavras
