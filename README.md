@@ -76,7 +76,7 @@ updated: Feb 2022
 - Nightcrawler (2014),
 - Notre Jour Viendra, Romain Gabras
 - Office Space
-- Oslo, August 31st (2011),
+- Oslo, August 31st (2011), Joachim Trier
 - Our Day Will Come (2010),
 - Parasite (2019),
 - Paths of Glory (1957), Stanley Kubrick
@@ -132,6 +132,7 @@ updated: Feb 2022
 - Two Days, One Night (2014),
 - Umberto D. (1952),
 - Under the Skin (2013),
+- Verdens verste menneske [The Worst Person in the World] (2021), Joachim Trier
 - Vivre Sa Vie (1962),
 - WALL·E (2008),
 - What We Do in the Shadows (2014),
