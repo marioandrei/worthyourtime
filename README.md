@@ -49,15 +49,14 @@ updated: Feb 2022
 - I'm Thinking of Ending Things (2020),
 - In Bruges (2008),
 - Inside Llewyn Davis (2013),
-- Jojimbo
 - Junun (2015), PTA
 - La Bataille D'Alger
 - La Chinoise (1967, Jean-Luc Godard
 - La Estrategia del Caracol [The Strategy of the Snail] (1993),
 - La Haine (1995),
 - La Nuit Americaine
-- Ladrid Di Biciclette
-- Léon: The Professional (1994),
+- Ladri Di Biciclette (1948), Vittorio de Sica
+- Léon: The Professional (1994), Luc Besson
 - Les Quatre Cents Coups (1959, François Truffaut
 - Los Cronocrimenes
 - Lost in Translation (2003),
