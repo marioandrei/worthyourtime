@@ -21,6 +21,7 @@ updated: Feb 2022
 - Bicycle Thieves (1948),
 - Blade Runner 2049 (2017),
 - Blue Collar (1978),
+- The Banshees of Inisherin (2022), Martin McDonagh
 - Carnage (2011),
 - Children of Men (2006),
 - Do the Right Thing (1989),
@@ -47,12 +48,12 @@ updated: Feb 2022
 - Heat (1995),
 - High Fidelity (2000),
 - I'm Thinking of Ending Things (2020),
-- In Bruges (2008),
+- In Bruges (2008), Martin McDonagh
 - Inside Llewyn Davis (2013),
 - Junun (2015), PTA
 - La Bataille D'Alger
 - La Chinoise (1967, Jean-Luc Godard
-- La Estrategia del Caracol [The Strategy of the Snail] (1993),
+- La Estrategia del Caracol [The Strategy of the Snail] (1993), Sergio Cabrera
 - La Haine (1995),
 - La Nuit Americaine
 - Ladri Di Biciclette (1948), Vittorio de Sica
@@ -128,6 +129,7 @@ updated: Feb 2022
 - There Will Be Blood (2007), PTA
 - They Live (1988),
 - Twelve Monkeys (1995),
+- Triangle of Sadness (2022), Ruben Östlund
 - Two Days, One Night (2014),
 - Umberto D. (1952),
 - Under the Skin (2013),
