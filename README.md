@@ -4,14 +4,13 @@ Films Worth Watching
 I'm always forgetting to create a list of my favourite films.
 so here it is, the definitive list, no nonsense, good or bad but always relevant, timeless... a Criterion Collection ripoff probably:
 
-updated: Feb 2022
+updated: Jan 2024
 
 - 2001: A Space Odyssey (1968),
 - A Serious Man (2009), Ethan Coen, Joel Coen
 - American Psycho (2000), Mary Harron
 - American Splendor
-- Amour (2012),
-- Druk [Another Round] (2020), Thomas Vinterberg
+- Amour (2012), Haneke
 - Aquatic Life Of Steve Zizou (), Wes Anderson
 - Be Kind Rewind (2008),
 - Before Midnight (2013),
@@ -21,7 +20,6 @@ updated: Feb 2022
 - Bicycle Thieves (1948),
 - Blade Runner 2049 (2017),
 - Blue Collar (1978),
-- The Banshees of Inisherin (2022), Martin McDonagh
 - Carnage (2011),
 - Children of Men (2006),
 - Do the Right Thing (1989),
@@ -31,6 +29,7 @@ updated: Feb 2022
 - Doubt (), 
 - Dr. Strangelove - Or How I Learned To Stop Worrying And Love The Bomb (), Stanley Kubrick
 - Drive (2011),
+- Druk [Another Round] (2020), Thomas Vinterberg
 - Electroma (), Daft Punk
 - Elevator to the Gallows (1958),
 - Enemy (2013),
@@ -79,6 +78,7 @@ updated: Feb 2022
 - Oslo, August 31st (2011), Joachim Trier
 - Our Day Will Come (2010),
 - Parasite (2019),
+- Past Lives (2023), Celine Song
 - Paths of Glory (1957), Stanley Kubrick
 - People, Places, Things (2015),
 - Phantom Thread (2017), PTA
@@ -101,6 +101,7 @@ updated: Feb 2022
 - Suspiria (1977),
 - The 400 Blows (1959),
 - The Apartment (1960),
+- The Banshees of Inisherin (2022), Martin McDonagh
 - The Big Bad Fox and Other Tales (2017),
 - The Breakfast Club (1985),
 - The Conversation (1974),
@@ -111,6 +112,7 @@ updated: Feb 2022
 - The French Dispatch (2021), Wes Anderson
 - The Greasy Strangler (2016),
 - The Great Beauty (2013),
+- The Holdovers (2023), Alexander Payne
 - The Killing of a Sacred Deer (2017),
 - The King of Comedy (1982),
 - The Life Aquatic with Steve Zissou (2004),
@@ -128,8 +130,8 @@ updated: Feb 2022
 - The Witch (2015),
 - There Will Be Blood (2007), PTA
 - They Live (1988),
-- Twelve Monkeys (1995),
 - Triangle of Sadness (2022), Ruben Östlund
+- Twelve Monkeys (1995),
 - Two Days, One Night (2014),
 - Umberto D. (1952),
 - Under the Skin (2013),
