@@ -59,6 +59,7 @@ updated: Jan 2024
 - Léon: The Professional (1994), Luc Besson
 - Les Quatre Cents Coups (1959, François Truffaut
 - Los Cronocrimenes
+- Los Santos Inocentes (1984), Mario Camus
 - Lost in Translation (2003),
 - Mad Max: Fury Road (2015),
 - Mandy (2018),
@@ -144,5 +145,7 @@ updated: Jan 2024
 - Yojimbo (1961),
 - You Were Never Really Here (2017),
 - Z (1969), Costa-Gavras
+- Zone of Interest (2023), Jonathan Glazer
 - Иди и смотри [Come and See] (1985), Elem Klimov
+- ゴジラ-1.0 (2023), Takashi Yamazaki
 - 天注定 [A Touch Of Sin] (2013), Jia Zhangke
