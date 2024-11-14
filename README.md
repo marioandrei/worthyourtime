@@ -1,10 +1,18 @@
-Films Worth Watching
+Photographers Worth Your Time
+---------------------
+
+- Lukasz Wierzbowski
+- Lars Tunbjörk
+- Koudelka
+- Martin Parr
+
+
+Films Worth Worth Your Time
 ---------------------
 
 I'm always forgetting to create a list of my favourite films.
 so here it is, the definitive list, no nonsense, good or bad but always relevant, timeless... a Criterion Collection ripoff probably:
 
-updated: Jan 2024
 
 - 2001: A Space Odyssey (1968),
 - A Serious Man (2009), Ethan Coen, Joel Coen
@@ -149,3 +157,7 @@ updated: Jan 2024
 - Иди и смотри [Come and See] (1985), Elem Klimov
 - ゴジラ-1.0 (2023), Takashi Yamazaki
 - 天注定 [A Touch Of Sin] (2013), Jia Zhangke
+
+
+
+updated: Nov 2024
