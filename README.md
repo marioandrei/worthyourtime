@@ -6,6 +6,7 @@ Photographers Worth Your Time
 - Josef Koudelka
 - Martin Parr
 - Alex Webb & Rebecca Norris Webb
+- Susan Meiselas
 
 
 Films Worth Worth Your Time
@@ -162,4 +163,4 @@ so here it is, the definitive list, no nonsense, good or bad but always relevant
 
 
 
-updated: Nov 2024
+updated: Dec 2024
