@@ -7,6 +7,7 @@ Photographers Worth Your Time
 - Martin Parr
 - Alex Webb & Rebecca Norris Webb
 - Susan Meiselas
+- Jurgen Teller
 
 
 Films Worth Worth Your Time
@@ -61,6 +62,7 @@ so here it is, the definitive list, no nonsense, good or bad but always relevant
 - Inside Llewyn Davis (2013),
 - Junun (2015), PTA
 - La Bataille D'Alger
+- La Chimera (2023), Alice Rohrwacher
 - La Chinoise (1967, Jean-Luc Godard
 - La Estrategia del Caracol [The Strategy of the Snail] (1993), Sergio Cabrera
 - La Haine (1995),
@@ -163,4 +165,14 @@ so here it is, the definitive list, no nonsense, good or bad but always relevant
 
 
 
-updated: Dec 2024
+TV Shows / Minisiries Worth Your Time
+---------------------
+
+- Ghosts (BBC)
+- Severance
+- Westwood Season 1 only
+- Extras
+- The Venture Bros
+
+
+updated: Jan 2025
