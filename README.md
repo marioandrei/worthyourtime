@@ -1,13 +1,14 @@
 Photographers Worth Your Time
 ---------------------
 
-- Lukasz Wierzbowski
-- Lars Tunbjörk
-- Josef Koudelka
-- Martin Parr
 - Alex Webb & Rebecca Norris Webb
-- Susan Meiselas
+- Greg Girard
+- Josef Koudelka
 - Jurgen Teller
+- Lars Tunbjörk
+- Lukasz Wierzbowski
+- Martin Parr
+- Susan Meiselas
 
 
 Films Worth Worth Your Time
