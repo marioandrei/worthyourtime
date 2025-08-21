@@ -153,6 +153,7 @@ so here it is, the definitive list, no nonsense, good or bad but always relevant
 - Verdens verste menneske [The Worst Person in the World] (2021), Joachim Trier
 - Vivre Sa Vie (1962),
 - WALL·E (2008),
+- Weapons (2025), Zach Cregger
 - What We Do in the Shadows (2014),
 - Wild Strawberries (1957),
 - Wrong Cops (2013),
@@ -176,4 +177,4 @@ TV Shows / Minisiries Worth Your Time
 - The Venture Bros
 
 
-updated: Jan 2025
+updated: Aug 2025
