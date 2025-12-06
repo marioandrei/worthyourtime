@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "markdown-to-html-cli": "^5.0.3"
+  },
+  "name": "worthyourtime",
+  "version": "1.0.0",
+  "description": "simple list of fave things",
+  "main": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
