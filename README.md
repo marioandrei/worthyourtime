@@ -49,7 +49,6 @@ so here it is, the definitive list, no nonsense, good or bad but always relevant
 - Eternal Sunshine of the Spotless Mind (2004),
 - Ferris Buller's Day Off (1987), John Hughes
 - First Reformed (2017),
-- Frances Ha
 - Frances Ha (2012),
 - Full Metal Jacket (1987),
 - Gentlemen Broncos
@@ -60,28 +59,27 @@ so here it is, the definitive list, no nonsense, good or bad but always relevant
 - High Fidelity (2000),
 - I'm Thinking of Ending Things (2020),
 - In Bruges (2008), Martin McDonagh
-- Inside Llewyn Davis (2013),
+- Inside Llewyn Davis (2013), Cohen Brothers
 - Junun (2015), PTA
 - La Bataille D'Alger
 - La Chimera (2023), Alice Rohrwacher
-- La Chinoise (1967, Jean-Luc Godard
+- La Chinoise (1967), Jean-Luc Godard
 - La Estrategia del Caracol [The Strategy of the Snail] (1993), Sergio Cabrera
 - La Haine (1995),
 - La Nuit Americaine
 - Ladri Di Biciclette (1948), Vittorio de Sica
 - Léon: The Professional (1994), Luc Besson
-- Les Quatre Cents Coups (1959, François Truffaut
+- Les Quatre Cents Coups (1959), François Truffaut
 - Los Cronocrimenes
 - Los Santos Inocentes (1984), Mario Camus
 - Lost in Translation (2003),
 - Mad Max: Fury Road (2015),
 - Mandy (2018),
-- Marie Antoinette (2006),
+- Marie Antoinette (2006), Sofia Coppola
 - Marriage Story (2019),
 - Memories of Murder (2003),
 - Miracle in Rome (1989),
-- Missing (1982),
-- Missing, Costa-Gavras
+- Missing (1982), Costa-Gavras
 - Mommy (2014),
 - Mon Oncle
 - Music Box (1989),
@@ -90,7 +88,7 @@ so here it is, the definitive list, no nonsense, good or bad but always relevant
 - Notre Jour Viendra, Romain Gabras
 - Office Space
 - Oslo, August 31st (2011), Joachim Trier
-- Our Day Will Come (2010),
+- Our Day Will Come (2010), Romain Gavras
 - Parasite (2019),
 - Past Lives (2023), Celine Song
 - Paths of Glory (1957), Stanley Kubrick
@@ -167,8 +165,6 @@ so here it is, the definitive list, no nonsense, good or bad but always relevant
 - ゴジラ-1.0 (2023), Takashi Yamazaki
 - 天注定 [A Touch Of Sin] (2013), Jia Zhangke
 
-
-
 TV Shows / Minisiries Worth Your Time
 ---------------------
 
@@ -178,4 +174,5 @@ TV Shows / Minisiries Worth Your Time
 - The Venture Bros
 - Westwood (Season 1)
 
-updated: Nov 2026
+updated:
+Nov 2026

@@ -10,5 +10,8 @@
   },
   "scripts": {
     "start": "markdown-to-html --output index.html"
+  },
+  "dependencies": {
+    "markdown-to-html": "^0.0.13"
   }
 }
