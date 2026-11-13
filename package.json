@@ -9,9 +9,6 @@
     "markdown-to-html-cli": "latest"
   },
   "scripts": {
-    "start": "markdown-to-html --output index.html"
-  },
-  "dependencies": {
-    "markdown-to-html": "^0.0.13"
+    "start": "markdown-to-html --output index.html --theme light"
   }
 }
