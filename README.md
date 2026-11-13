@@ -98,6 +98,7 @@ so here it is, the definitive list, no nonsense, good or bad but always relevant
 - Phantom Thread (2017), PTA
 - Pig (2021),
 - PlayTime (1967),
+- Primtime (2026), Lance Oppenheim
 - Rashomon (1950),
 - Rome, Open City (1945),
 - Ronin (1998),
@@ -158,6 +159,7 @@ so here it is, the definitive list, no nonsense, good or bad but always relevant
 - Wild Strawberries (1957),
 - Wrong Cops (2013),
 - Yojimbo (1961),
+- You Can See Everything (2026), Lance Oppenheim & Nathan Fielder
 - You Were Never Really Here (2017),
 - Z (1969), Costa-Gavras
 - Zone of Interest (2023), Jonathan Glazer
@@ -170,11 +172,10 @@ so here it is, the definitive list, no nonsense, good or bad but always relevant
 TV Shows / Minisiries Worth Your Time
 ---------------------
 
+- Extras
 - Ghosts (BBC)
 - Severance
-- Westwood Season 1 only
-- Extras
 - The Venture Bros
+- Westwood (Season 1)
 
-
-updated: Aug 2025
+updated: Nov 2026
